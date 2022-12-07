@@ -1,0 +1,11 @@
+C:\Users\alex.msantos22\source\repos\ProjetoAlex\ProjetoAlex\bin\Debug\ProjetoAlex.exe.config
+C:\Users\alex.msantos22\source\repos\ProjetoAlex\ProjetoAlex\bin\Debug\ProjetoAlex.exe
+C:\Users\alex.msantos22\source\repos\ProjetoAlex\ProjetoAlex\bin\Debug\ProjetoAlex.pdb
+C:\Users\alex.msantos22\source\repos\ProjetoAlex\ProjetoAlex\obj\Debug\ProjetoAlex.csproj.AssemblyReference.cache
+C:\Users\alex.msantos22\source\repos\ProjetoAlex\ProjetoAlex\obj\Debug\ProjetoAlex.csproj.SuggestedBindingRedirects.cache
+C:\Users\alex.msantos22\source\repos\ProjetoAlex\ProjetoAlex\obj\Debug\ProjetoAlex.Form1.resources
+C:\Users\alex.msantos22\source\repos\ProjetoAlex\ProjetoAlex\obj\Debug\ProjetoAlex.Properties.Resources.resources
+C:\Users\alex.msantos22\source\repos\ProjetoAlex\ProjetoAlex\obj\Debug\ProjetoAlex.csproj.GenerateResource.cache
+C:\Users\alex.msantos22\source\repos\ProjetoAlex\ProjetoAlex\obj\Debug\ProjetoAlex.csproj.CoreCompileInputs.cache
+C:\Users\alex.msantos22\source\repos\ProjetoAlex\ProjetoAlex\obj\Debug\ProjetoAlex.exe
+C:\Users\alex.msantos22\source\repos\ProjetoAlex\ProjetoAlex\obj\Debug\ProjetoAlex.pdb
